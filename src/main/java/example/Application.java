@@ -1,4 +1,4 @@
-package example;
+package main.java.example;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
